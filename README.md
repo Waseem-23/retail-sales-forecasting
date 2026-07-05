@@ -29,7 +29,9 @@ Retail businesses need accurate sales forecasts to manage inventory, staffing, a
 4. **Hyperparameter Tuning** — Used RandomizedSearchCV to optimize the XGBoost model, improving MAE by ~12%.
 5. **Deployment** — Built an interactive Streamlit dashboard for real-time sales predictions.
 
-## 🚀 Demo
+## 🚀 Live Demo
+
+🔗 **[Try the live dashboard here](https://retail-sales-forecasting-agvly4nyd2pkkrkcej8zhm.streamlit.app/)**
 
 The dashboard allows users to input store details (Store number, Department, Size, Type, and economic factors) and get an instant weekly sales prediction.
 
